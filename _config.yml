@@ -1,12 +1,3 @@
-title: Luis
-plugins:
-  - jekyll-remote-theme
-remote_theme: jekyll/minima
-minima:
-  skin: dark
-  social_links:
-    github:  rabchl
-highlighter: rouge
-kramdown:
-    math_engine: katex
-    syntax_highlighter: rouge
+# Build Settings
+markdown: kramdown
+theme: minima
